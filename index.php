@@ -16,7 +16,7 @@ echo"$firstname <br> $lastname <br>";
 echo"$username <br> $email <br>";
 echo"$phone <br> $age <br>";
 echo" $confirm <br>";
-echo"$gender"
+echo$gender
 
 
 
